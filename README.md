@@ -2,13 +2,13 @@
 
 ## About
 
-This is a website about..
+This is a website about a Learning Center for children
 
-In contains three pages:
+It contains three pages:
 
 * The Home page at index.html
-* The ____ page at _____.html
-* The ____ page at _____.html
+* The about page at faqs.html
+* The menu page at menu.html
 
 It will contain a variety of HTML tags and content to describe the topic.
 
@@ -35,7 +35,7 @@ The basic design will look like this low fidelity wireframe.
 
 ## Contact
 
-Author: 
+Author: Walter Sias walt.sias@gmail.com
 
 ## Acknowledgements
 
