@@ -2,7 +2,7 @@
 
 ## About
 
-This is a website about a Learning Center for children
+This is a website about a dog named Rio
 
 It contains three pages:
 
