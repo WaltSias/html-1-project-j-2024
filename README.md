@@ -26,11 +26,11 @@ The basic design will look like this low fidelity wireframe.
 
 ## Roadmap
 
-- [ ] head, title, and body tags
+- [x] head, title, and body tags
 - [ ] Headers (h1, h2) and Paragraph p
 - [ ] Home Page
-- [ ] Page 2 about...
-- [ ] Page 3 about...
+- [ ] Page 2 about faqs
+- [ ] Page 3 about menu
 
 
 ## Contact
